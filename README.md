@@ -1,6 +1,6 @@
 # Awesome-Macos-System-Monitoring-Performance-Analytics
 
-# Top macOS System Monitoring & Performance Analytics Ecosystem
+## Top macOS System Monitoring & Performance Analytics Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Real-Time Resource Tracking, Thermal Management & Storage Analytics*  
