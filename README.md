@@ -57,9 +57,9 @@ The following table compares leading commercial and SaaS software solutions for 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore community-driven, transparent, and telemetry-free system monitors for macOS 🔓. The repositories below are sorted by **GitHub Star Count** (descending) with social badges linked directly to each project's stargazers 🌟.
+Explore community-driven, transparent, and telemetry-free system monitors for macOS 🔓. The repositories below are sorted by **GitHub Stars_Count** (descending) with social badges linked directly to each project's stargazers 🌟.
 
-| Project & Repo | Stars | Language | Primary Architecture / Interface | Description |
+| Project & Repo | GitHub_Stars | Language | Primary Architecture / Interface | Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Netdata](https://github.com/netdata/netdata)** 📡 | [![Netdata Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | C / Go | Web Dashboard & Daemon (macOS / Linux) | High-fidelity, real-time distributed infrastructure and per-second system performance monitor with pre-configured macOS metrics collection. |
 | **[Stats](https://github.com/exelban/stats)** 📊 | [![Stats Stars](https://img.shields.io/github/stars/exelban/stats?style=social&color=white)](https://github.com/exelban/stats/stargazers) | Swift | Menu Bar & macOS Widgets | The definitive open-source macOS menu bar monitor: CPU, GPU, unified memory, disk, network, battery, sensors, and fan speeds. |
@@ -147,7 +147,7 @@ Contributions, feature additions, and corrections are welcome! 🙌
 2. **Add or update an entry** in `README.md` keeping the tabular structure intact.
 3. Ensure you provide:
    * **For SaaS/Commercial tools**: Exact starting pricing, explicit free trial / free tier limits, developer size, and primary capabilities.
-   * **For Open-Source tools**: Repository URL, valid GitHub star badge (`style=social&color=white`), programming language, and platform scope.
+   * **For Open-Source tools**: Repository URL, valid GitHub Stars_Badge (`style=social&color=white`), programming language, and platform scope.
 4. **Submit a Pull Request** with a clear title and description of changes.
 
 ---
